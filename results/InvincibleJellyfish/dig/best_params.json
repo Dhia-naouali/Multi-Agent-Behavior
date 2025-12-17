@@ -1,0 +1,17 @@
+{
+  "learning_rate": 0.03574712922600244,
+  "max_depth": 10,
+  "min_child_weight": 8,
+  "subsample": 0.779597545259111,
+  "colsample_bytree": 0.6468055921327309,
+  "gamma": 0.7799726016810132,
+  "reg_alpha": 0.2904180608409973,
+  "reg_lambda": 4.330880728874676,
+  "max_bin": 167,
+  "objective": "binary:logistic",
+  "eval_metric": "logloss",
+  "device": "cuda",
+  "tree_method": "hist",
+  "scale_pos_weight": 26.91799645390071,
+  "seed": 42
+}
